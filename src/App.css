@@ -1,0 +1,93 @@
+.form-container{
+  text-align: center;
+
+}
+
+.main-container{
+  background-image: url("https://image.freepik.com/vecteurs-libre/terre-technologie-fond-connexion-reseau_1017-17267.jpg");
+  border-radius: 20px;
+  background-repeat: no-repeat;
+  color: white;
+  width: 500px;
+  margin: auto;
+  background-size: cover;
+ 
+}
+.header{
+  padding-top: 0;
+    padding-bottom: 0;
+  float: right;
+  margin-right: 20px;
+}
+.header h1{
+  margin: 10px;
+}
+.chip img{
+  
+    margin-bottom: -15px;
+    margin-left: 28px;
+    padding-top: 30px;
+    width: 25%;
+}
+.logo {
+   width: 30%;
+}
+.logo img{
+  width: 70%;
+  margin: 30px;  
+}
+.sec-num-validth{
+  display: flex;
+  justify-content: space-between;
+}
+.valid-thru{
+  display: flex;
+}
+.content{
+  display: flex;
+}
+.container{
+  margin-top: -15px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+.info{
+  margin-left: 20px;
+  width: 70%;
+ 
+}
+.valid-thru{
+ 
+  flex-direction: column;
+}
+.valid-thru p{
+  font-size: 10px;
+}
+.main-number{
+  font-family: cursive;
+  display: flex;
+  justify-content: space-around;
+  opacity: 0.5;
+  border:  1px ;
+  background-color:#917f4c;
+  color:#f3b808 ;
+}
+.main-number h2{
+    margin: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+ p*{
+  
+  margin: 0px;
+}
+.m-y {
+  margin-left: 30px;
+  margin-bottom: -20px;
+
+}
+.card-holder {
+  margin-top: -20px;
+  margin: 0px,10px;
+}
