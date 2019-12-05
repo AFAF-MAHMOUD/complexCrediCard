@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/complexCrediCard/static/css/main.52475edc.chunk.css",
+    "main.js": "/complexCrediCard/static/js/main.dd9a578f.chunk.js",
+    "main.js.map": "/complexCrediCard/static/js/main.dd9a578f.chunk.js.map",
+    "runtime-main.js": "/complexCrediCard/static/js/runtime-main.aeedc1e4.js",
+    "runtime-main.js.map": "/complexCrediCard/static/js/runtime-main.aeedc1e4.js.map",
+    "static/js/2.06448520.chunk.js": "/complexCrediCard/static/js/2.06448520.chunk.js",
+    "static/js/2.06448520.chunk.js.map": "/complexCrediCard/static/js/2.06448520.chunk.js.map",
+    "index.html": "/complexCrediCard/index.html",
+    "precache-manifest.0890abb36d2ff5b75530213f43d4b491.js": "/complexCrediCard/precache-manifest.0890abb36d2ff5b75530213f43d4b491.js",
+    "service-worker.js": "/complexCrediCard/service-worker.js",
+    "static/css/main.52475edc.chunk.css.map": "/complexCrediCard/static/css/main.52475edc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeedc1e4.js",
+    "static/js/2.06448520.chunk.js",
+    "static/css/main.52475edc.chunk.css",
+    "static/js/main.dd9a578f.chunk.js"
+  ]
+}
